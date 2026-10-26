@@ -1,19 +1,7 @@
 <!-- ILUMA DIGITAL AGENCY | OFFICIAL ORGANIZATION PROFILE -->
+<!-- Seamless GitHub-safe navigation: independent clickable SVG assets -->
 <div align="center">
-  <a href="https://iluma.gr/" title="ILUMA Digital Agency">
-    <img src="./assets/iluma-hero-premium.svg" width="100%" alt="ILUMA — Your Last Digital Agency. Strategy, Design, Engineering, AI." />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://iluma.gr/"><strong>WEBSITE</strong></a>&nbsp; · &nbsp;
-  <a href="https://iluma.gr/agency">Η ILUMA</a>&nbsp; · &nbsp;
-  <a href="https://iluma.gr/projects">ΤΑ ΕΡΓΑ ΜΑΣ</a>&nbsp; · &nbsp;
-  <a href="https://iluma.gr/contact/">ΕΠΙΚΟΙΝΩΝΙΑ</a>
-</p>
-
-<div align="center">
-  <a href="https://iluma.gr/agency"><img src="./assets/iluma-capabilities.svg" width="100%" alt="Strategy, Creative, Engineering, Growth — οι τέσσερις πυλώνες της ILUMA" /></a>
+<a href="https://iluma.gr/" title="ILUMA Digital Agency"><img src="./assets/iluma-hero-premium.svg" width="100%" align="top" alt="ILUMA — Your Last Digital Agency"/></a><a href="https://iluma.gr/" title="Επίσημη ιστοσελίδα ILUMA"><img src="./assets/nav-website.svg" width="25%" align="top" alt="Website"/></a><a href="https://iluma.gr/agency" title="Γνωρίστε την ILUMA"><img src="./assets/nav-agency.svg" width="25%" align="top" alt="Η ILUMA"/></a><a href="https://iluma.gr/projects" title="Τα έργα της ILUMA"><img src="./assets/nav-projects.svg" width="25%" align="top" alt="Τα έργα μας"/></a><a href="https://iluma.gr/contact/" title="Επικοινωνήστε με την ILUMA"><img src="./assets/nav-contact.svg" width="25%" align="top" alt="Επικοινωνία"/></a><a href="https://iluma.gr/agency" title="Strategy · Creative · Engineering · Growth"><img src="./assets/iluma-capabilities.svg" width="100%" align="top" alt="Strategy, Creative, Engineering, Growth — οι πυλώνες της ILUMA"/></a>
 </div>
 
 ## 01 — Η ILUMA

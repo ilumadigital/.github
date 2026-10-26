@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="103" viewBox="0 0 400 103" role="img" aria-labelledby="title">
+<title id="title">WEBSITE — ILUMA Digital Agency</title>
+<rect width="400" height="103" fill="#0a0a0a"/>
+<path d="M0 2H400M0 101H400" stroke="#393939" stroke-width="1"/>
+<path d="M399 21V83" stroke="#363636" stroke-width="1"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="36" y="27" font-size="15" fill="#8e8e8e" letter-spacing="2.4">ILUMA / 01</text>
+<text x="35" y="69" font-size="25" font-weight="700" fill="#f9f9f9" letter-spacing=".8">WEBSITE</text>
+</g>
+<path d="M342 53H368M354 41L368 53L354 65" stroke="#e7e7e7" stroke-width="2.2" stroke-linecap="square" fill="none"/>
+</svg>
