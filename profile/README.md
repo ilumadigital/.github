@@ -1,7 +1,7 @@
 <!-- ILUMA Digital Agency | Public Organization Profile -->
 <div align="center">
   <a href="https://iluma.gr/" title="ILUMA Digital Agency — Επίσημη ιστοσελίδα">
-    <img src="./assets/iluma-cinematic-hero.gif" width="100%" alt="ILUMA Digital Agency — cinematic animated hero. Your Last Digital Agency." />
+    <img src="./assets/iluma-cinematic-hero-fixed.gif" width="100%" alt="ILUMA Digital Agency — cinematic animated hero. Your Last Digital Agency." />
   </a>
 </div>
 
@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="./assets/iluma-logo.png" alt="ILUMA Digital Agency" width="190" />
+  <img src="./assets/iluma-wordmark-white.png" alt="ILUMA Digital Agency" width="190" />
   <p>
     <strong>Digital Agency × Creative Technology Studio</strong><br/>
     Αθήνα, Ελλάδα · 7+ χρόνια εμπειρίας · Strategy / Design / Software / AI / Media
