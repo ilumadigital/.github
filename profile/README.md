@@ -13,18 +13,6 @@
 </p>
 
 <div align="center">
-  <a href="https://iluma.gr/">
-    <img src="./assets/motion-signal.gif" width="88%" alt="Διακριτικό κινούμενο τεχνολογικό μοτίβο ILUMA" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>INDEPENDENT DIGITAL STUDIO &nbsp; / &nbsp; ATHENS, GREECE &nbsp; / &nbsp; 7+ YEARS OF EXPERIENCE</sub>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://iluma.gr/agency"><img src="./assets/iluma-capabilities.svg" width="100%" alt="Strategy, Creative, Engineering, Growth — οι τέσσερις πυλώνες της ILUMA" /></a>
 </div>
 
