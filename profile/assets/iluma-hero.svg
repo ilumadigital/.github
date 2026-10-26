@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="650" viewBox="0 0 1600 650" role="img" aria-labelledby="title desc">
+<title id="title">ILUMA Digital Agency — Your Last Digital Agency</title>
+<desc id="desc">Μαύρο minimal γραφικό με το εταιρικό slogan, κύκλους τεχνολογικής γεωμετρίας και την υπογραφή της ILUMA.</desc>
+<rect width="1600" height="650" fill="#080808"/>
+<defs><pattern id="grid" width="75" height="75" patternUnits="userSpaceOnUse"><path d="M75 0H0V75" fill="none" stroke="#242424" stroke-width="1"/></pattern></defs>
+<rect x="890" y="0" width="710" height="650" fill="url(#grid)" opacity=".38"/>
+<g fill="none" stroke="#333" stroke-width="1.4" opacity=".72"><circle cx="1285" cy="317" r="165"/><circle cx="1285" cy="317" r="265"/><circle cx="1285" cy="317" r="370"/><circle cx="1285" cy="317" r="478"/></g>
+<g fill="#fff" font-family="Arial,Helvetica,sans-serif">
+<text x="82" y="88" font-size="27" font-weight="800" letter-spacing="2">ILUMA®</text>
+<text x="1520" y="86" text-anchor="end" font-size="19" fill="#9d9d9d" letter-spacing="2">INDEPENDENT DIGITAL STUDIO / ATHENS</text>
+</g>
+<path d="M80 116H1520" stroke="#3d3d3d" stroke-width="1"/>
+<g fill="#f6f6f6" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-7">
+<text x="76" y="321" font-size="154">YOUR LAST</text>
+<text x="78" y="449" font-size="117" letter-spacing="-5.5">DIGITAL AGENCY.</text>
+</g>
+<text x="83" y="512" fill="#bbbbbb" font-family="Arial,Helvetica,sans-serif" font-size="29" letter-spacing=".4">Στρατηγική. Δημιουργικότητα. Τεχνολογία.</text>
+<path d="M80 557H1520" stroke="#444" stroke-width="1"/>
+<text x="83" y="600" fill="#959595" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2">BUILT IN ATHENS · 7+ ΧΡΟΝΙΑ ΕΜΠΕΙΡΙΑΣ</text>
+<text x="1515" y="600" text-anchor="end" fill="#959595" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2">ILUMA.GR / 2026</text>
+</svg>
