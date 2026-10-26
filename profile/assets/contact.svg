@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="286" viewBox="0 0 1600 286" role="img" aria-labelledby="title">
+<title id="title">ILUMA Digital Agency — Ας δημιουργήσουμε κάτι ξεχωριστό</title>
+<rect width="1600" height="286" fill="#080808"/>
+<g fill="none" stroke="#292929"><circle cx="1450" cy="142" r="150"/><circle cx="1450" cy="142" r="220"/></g>
+<text x="75" y="66" fill="#ababab" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2">ΕΧΕΤΕ ΜΙΑ ΙΔΕΑ; / LET'S BUILD.</text>
+<text x="72" y="146" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="63" letter-spacing="-2">Ας δημιουργήσουμε κάτι ξεχωριστό.</text>
+<path d="M76 181H1515" stroke="#454545"/>
+<text x="76" y="234" fill="#dbdbdb" font-family="Arial,Helvetica,sans-serif" font-size="25">ILUMA.GR</text>
+<text x="1509" y="234" text-anchor="end" fill="#dbdbdb" font-family="Arial,Helvetica,sans-serif" font-size="25">HELLO@ILUMA.GR</text>
+</svg>
