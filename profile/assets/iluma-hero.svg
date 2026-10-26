@@ -3,14 +3,31 @@
 <title id="title">ILUMA Digital Agency — Your Last Digital Agency</title>
 <desc id="desc">Μαύρο minimal γραφικό με το εταιρικό slogan, κύκλους τεχνολογικής γεωμετρίας και την υπογραφή της ILUMA.</desc>
 <rect width="1600" height="650" fill="#080808"/>
+<style><![CDATA[
+@keyframes orbit { to { transform: rotate(360deg); } }
+@keyframes trace { to { stroke-dashoffset: -540; } }
+@keyframes glow { 0%,100% { opacity:.23; } 50% { opacity:.9; } }
+@keyframes flicker { 0%,17%,20%,100% { opacity:1; } 18%,19% { opacity:.18; } }
+@keyframes shift { 0%,100% { transform:translate(0,0); } 50% { transform:translate(-15px,8px); } }
+.orbit { transform-origin:1285px 317px; animation:orbit 90s linear infinite; }
+.arc { stroke-dasharray:8 15; animation:trace 13s linear infinite; }
+.breathe { animation:glow 4s ease-in-out infinite; }
+.cursor { animation:flicker 2.8s steps(1,end) infinite; }
+.float { animation:shift 12s ease-in-out infinite; }
+@media(prefers-reduced-motion:reduce){ .orbit,.arc,.breathe,.cursor,.float{animation:none!important} }
+]]></style>
 <defs><pattern id="grid" width="75" height="75" patternUnits="userSpaceOnUse"><path d="M75 0H0V75" fill="none" stroke="#242424" stroke-width="1"/></pattern></defs>
 <rect x="890" y="0" width="710" height="650" fill="url(#grid)" opacity=".38"/>
-<g fill="none" stroke="#333" stroke-width="1.4" opacity=".72"><circle cx="1285" cy="317" r="165"/><circle cx="1285" cy="317" r="265"/><circle cx="1285" cy="317" r="370"/><circle cx="1285" cy="317" r="478"/></g>
+<g class="orbit" fill="none" stroke="#333" stroke-width="1.4" opacity=".72"><circle cx="1285" cy="317" r="165"/><circle cx="1285" cy="317" r="265"/><circle cx="1285" cy="317" r="370"/><circle cx="1285" cy="317" r="478"/></g>
 <g fill="#fff" font-family="Arial,Helvetica,sans-serif">
 <text x="82" y="88" font-size="27" font-weight="800" letter-spacing="2">ILUMA®</text>
 <text x="1520" y="86" text-anchor="end" font-size="19" fill="#9d9d9d" letter-spacing="2">INDEPENDENT DIGITAL STUDIO / ATHENS</text>
 </g>
 <path d="M80 116H1520" stroke="#3d3d3d" stroke-width="1"/>
+<path class="arc" d="M997 316a288 288 0 0 1 576 0" fill="none" stroke="#f0f0f0" stroke-width="2.5" opacity=".65"/>
+<circle class="breathe" cx="1285" cy="317" r="52" fill="none" stroke="#858585" stroke-width="1.5"/>
+<circle class="breathe" cx="1285" cy="317" r="4" fill="#fff"/>
+<rect class="cursor" x="82" y="523" width="18" height="5" fill="#fff" opacity=".78"/>
 <g fill="#f6f6f6" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-7">
 <text x="76" y="321" font-size="154">YOUR LAST</text>
 <text x="78" y="449" font-size="117" letter-spacing="-5.5">DIGITAL AGENCY.</text>

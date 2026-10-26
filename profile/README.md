@@ -4,6 +4,7 @@ Only links to already-public projects. No private source code or internal detail
   <a href="https://iluma.gr/" title="ILUMA Digital Agency — Επίσημη ιστοσελίδα">
     <img src="./assets/iluma-hero.svg" width="100%" alt="ILUMA Digital Agency. Your Last Digital Agency. Στρατηγική, Δημιουργικότητα, Τεχνολογία." />
   </a>
+  <img src="./assets/motion-signal.gif" width="100%" alt="Κινούμενο ILUMA tech signal — διακριτικό monochrome motion graphic" />
 </div>
 
 <p align="center">
@@ -14,7 +15,10 @@ Only links to already-public projects. No private source code or internal detail
 </p>
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/258887011?v=4" alt="Επίσημο λογότυπο ILUMA Digital Agency" width="78" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://iluma.gr/assets/images/iluma%20digital%20agency.png" />
+  <img src="https://avatars.githubusercontent.com/u/258887011?v=4" alt="Επίσημο λογότυπο ILUMA Digital Agency" width="160" />
+  </picture>
   <p><strong>Digital Agency × Creative Technology Studio</strong><br/>
   Αθήνα, Ελλάδα · 7+ χρόνια εμπειρίας</p>
 </div>
