@@ -61,6 +61,8 @@
 
 **[ILUMA Radios ↗](https://iluma.gr/radios/)** — Οικοσύστημα audio, streaming και ψηφιακών ραδιοφωνικών εμπειριών.
 
+**[ILUMA MyAds ↗](https://radios.iluma.gr/)** — — Ιδιόκτητη πλατφόρμα διαχείρισης και παρακολούθησης ραδιοφωνικών διαφημιστικών καμπανιών, με real-time εικόνα μεταδόσεων, Proof of Play, αναλυτικά reports και ενσωματωμένο ILUMA Signal για μέτρηση της ψηφιακής απόκρισης.
+
 **Open source, επιλεκτικά.** Εξετάζουμε τη δημόσια διάθεση components, starter kits και developer tools, με διαχωρισμό από τον ιδιωτικό και πελατειακό μας κώδικα.
 
 ---
