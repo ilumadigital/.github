@@ -1,113 +1,104 @@
-<!-- ILUMA Digital Agency | Public Organization Profile -->
+<!-- ILUMA DIGITAL AGENCY | OFFICIAL ORGANIZATION PROFILE -->
 <div align="center">
-  <a href="https://iluma.gr/" title="ILUMA Digital Agency — Επίσημη ιστοσελίδα">
-    <img src="./assets/iluma-cinematic-hero-fixed.gif" width="100%" alt="ILUMA Digital Agency — cinematic animated hero. Your Last Digital Agency." />
+  <a href="https://iluma.gr/" title="ILUMA Digital Agency">
+    <img src="./assets/iluma-hero-premium.svg" width="100%" alt="ILUMA — Your Last Digital Agency. Strategy, Design, Engineering, AI." />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://iluma.gr/">Website</a> &nbsp;·&nbsp;
-  <a href="https://iluma.gr/agency">Η ILUMA</a> &nbsp;·&nbsp;
-  <a href="https://iluma.gr/projects">Έργα</a> &nbsp;·&nbsp;
-  <a href="https://iluma.gr/contact/">Επικοινωνία</a>
+  <a href="https://iluma.gr/"><strong>WEBSITE</strong></a>&nbsp; · &nbsp;
+  <a href="https://iluma.gr/agency">Η ILUMA</a>&nbsp; · &nbsp;
+  <a href="https://iluma.gr/projects">ΤΑ ΕΡΓΑ ΜΑΣ</a>&nbsp; · &nbsp;
+  <a href="https://iluma.gr/contact/">ΕΠΙΚΟΙΝΩΝΙΑ</a>
 </p>
 
 <div align="center">
-  <img src="./assets/iluma-wordmark-white.png" alt="ILUMA Digital Agency" width="190" />
-  <p>
-    <strong>Digital Agency × Creative Technology Studio</strong><br/>
-    Αθήνα, Ελλάδα · 7+ χρόνια εμπειρίας · Strategy / Design / Software / AI / Media
-  </p>
+  <a href="https://iluma.gr/">
+    <img src="./assets/motion-signal.gif" width="88%" alt="Διακριτικό κινούμενο τεχνολογικό μοτίβο ILUMA" />
+  </a>
 </div>
 
+<div align="center">
+  <sub>INDEPENDENT DIGITAL STUDIO &nbsp; / &nbsp; ATHENS, GREECE &nbsp; / &nbsp; 7+ YEARS OF EXPERIENCE</sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://iluma.gr/agency"><img src="./assets/iluma-capabilities.svg" width="100%" alt="Strategy, Creative, Engineering, Growth — οι τέσσερις πυλώνες της ILUMA" /></a>
+</div>
+
+## 01 — Η ILUMA
+
+Είμαστε ένα ανεξάρτητο **Digital Agency & Creative Technology Studio** με έδρα την Αθήνα. Συνδυάζουμε στρατηγική, σχεδιασμό, software engineering, τεχνητή νοημοσύνη, performance marketing και digital media για να δημιουργούμε ολοκληρωμένες ψηφιακές εμπειρίες.
+
+Για εμάς, ένα brand δεν είναι απλώς μια εικόνα. Είναι το άθροισμα της εμπειρίας, της τεχνολογίας και της σχέσης με το κοινό του. Γι' αυτό σχεδιάζουμε και κατασκευάζουμε λύσεις που **λειτουργούν ως ενιαίο ψηφιακό οικοσύστημα**.
+
+**Your Last Digital Agency.** Από την πρώτη ιδέα μέχρι την υλοποίηση και την επόμενη μέρα.
+
+[Ανακαλύψτε την ILUMA και τη φιλοσοφία μας ↗](https://iluma.gr/agency)
+
 ---
 
-## 01 / Η ILUMA
+## 02 — Τι δημιουργούμε
 
-Η **ILUMA Digital Agency** είναι ένα ανεξάρτητο ψηφιακό studio με έδρα την Αθήνα. Συνδυάζουμε **στρατηγική, δημιουργικότητα, software engineering, performance marketing, AI integrations και digital media** για να σχεδιάζουμε εμπειρίες με πραγματικό επιχειρηματικό αποτέλεσμα.
-
-Δεν αντιμετωπίζουμε το digital ως απλή παρουσία. Το αντιμετωπίζουμε ως **σύστημα**: brand, προϊόν, περιεχόμενο, αρχιτεκτονική, αυτοματισμοί και απόδοση πρέπει να λειτουργούν σαν ένα.
-
-> **Your Last Digital Agency.**  
-> Από τη στρατηγική και το design, μέχρι την ανάπτυξη, το launch και την εξέλιξη.
-
-**[Γνωρίστε το studio μας ↗](https://iluma.gr/agency)**
-
----
-
-## 02 / Τι κάνουμε
-
-| Δημιουργικό & στρατηγική | Τεχνολογία & ανάπτυξη |
+| CREATIVE & GROWTH | TECHNOLOGY & ENGINEERING |
 | :--- | :--- |
-| **Brand Strategy & Identity** | **Web Development** |
-| **UI/UX Design** | **Custom Web Applications** |
-| **SEO & GEO** | **eCommerce Development** |
-| **Performance Marketing** | **APIs & Systems Integrations** |
-| **Content & Creative Production** | **AI & Automations** |
-| **Audio & Digital Media** | **Infrastructure & Deployment** |
+| Branding & Brand Strategy | Custom Web Development |
+| UI/UX Design | Web Applications & Platforms |
+| SEO, GEO & AI Visibility | eCommerce / B2B & B2C |
+| Performance Advertising | APIs & System Integrations |
+| Content & Creative Production | AI Integrations & Automations |
+| Digital & Audio Media | Infrastructure & Deployment |
 
-### Core stack
+**Το technology stack μας**
 
-`React` · `Next.js` · `TypeScript` · `PHP` · `Laravel` · `WordPress` · `WooCommerce` · `Python` · `Docker` · `Linux` · `REST APIs` · `AI Integrations`
+`React` · `Next.js` · `TypeScript` · `PHP` · `Laravel` · `Python` · `WordPress` · `WooCommerce` · `Docker` · `Linux` · `APIs` · `AI Integrations`
 
 ---
 
-## 03 / Επιλεγμένα έργα
+## 03 — Επιλεγμένα έργα
 
 <div align="center">
   <a href="https://iluma.gr/projects">
-    <img src="./assets/iluma-selected-work-cinematic.gif" width="100%" alt="ILUMA Selected Work — animated showcase of flagship projects" />
+    <img src="./assets/iluma-selected-work-premium.svg" width="100%" alt="ILUMA Selected Work: Hellenic Parliament, ENAK Shop, SEM Management, myRetina.gr, iRadios GR" />
   </a>
 </div>
 
-### [Hellenic Parliament AI Committee ↗](https://iluma.gr/projects/hellenic-parliament)
-Custom εφαρμογή για τη διαχείριση και εποπτεία έργων Τεχνητής Νοημοσύνης της Βουλής των Ελλήνων, με έξυπνη αναζήτηση, workflows και αυτοματισμούς.
+| PROJECT | Η ΠΡΟΚΛΗΣΗ |
+| :--- | :--- |
+| **[Hellenic Parliament ↗](https://iluma.gr/projects/hellenic-parliament)** | Εξειδικευμένες εφαρμογές και λύσεις AI για θεσμικά workflows. |
+| **[ENAK Shop ↗](https://iluma.gr/projects/enak-shop)** | Σύγχρονο ηλεκτρονικό εμπόριο και εμπειρίες B2B/B2C. |
+| **[SEM Management ↗](https://iluma.gr/projects/sem-management)** | Custom ψηφιακή πλατφόρμα με συστήματα κρατήσεων και διασυνδέσεις. |
+| **[myRetina.gr ↗](https://iluma.gr/projects/myretina)** | Ιατρική web παρουσία με προσεγμένο UX και στρατηγική περιεχομένου. |
+| **[iRadios GR ↗](https://iluma.gr/projects/iradios)** | Streaming εφαρμογή και ολοκληρωμένη ψηφιακή εμπειρία audio. |
 
-### [ENAK Shop ↗](https://iluma.gr/projects/enak-shop)
-B2B και B2C eCommerce οικοσύστημα με έμφαση στη λειτουργικότητα, την ταχύτητα και την απρόσκοπτη εμπειρία αγοράς.
+[Δείτε όλα τα δημόσια case studies ↗](https://iluma.gr/projects)
 
-### [SEM Management ↗](https://iluma.gr/projects/sem-management)
-Custom πλατφόρμα για property presentation, booking flows, live διαθεσιμότητα και λειτουργική διασύνδεση με εξωτερικά συστήματα.
-
-### [myRetina.gr ↗](https://iluma.gr/projects/myretina)
-Ιατρική και επιστημονική web εμπειρία με στοχευμένο UI/UX, σωστή πληροφοριακή αρχιτεκτονική και στρατηγική SEO/GEO.
-
-### [iRadios GR ↗](https://iluma.gr/projects/iradios)
-Streaming web application με έμφαση στην αμεσότητα, την καθαρή αλληλεπίδραση και τη συνολικά προσεγμένη media εμπειρία.
-
-**[Περισσότερα case studies ↗](https://iluma.gr/projects)**
-
-<sub>Τα παραπάνω links οδηγούν σε δημόσια case studies. Ο ιδιωτικός και εμπορικός πηγαίος κώδικας δεν δημοσιεύεται.</sub>
+<sub>Τα case studies είναι δημόσια. Ο πηγαίος κώδικας ιδιωτικών εφαρμογών και πελατειακών έργων παραμένει ιδιωτικός.</sub>
 
 ---
 
-## 04 / Προϊόντα, εργαλεία & public presence
+## 04 — Τα δικά μας προϊόντα
 
-### [ILUMA OS ↗](https://github.com/ilumadigital/ILUMA_OS)
-Δημόσιο repository για Ubuntu workstation setup και ILUMA-branded production environments.
+**[ILUMA OS ↗](https://github.com/ilumadigital/ILUMA_OS)** — Δημόσιο repository με εργαλεία παραμετροποίησης και setup Ubuntu workstations.
 
-### [ILUMA Radios ↗](https://iluma.gr/radios/)
-Digital radio ecosystem με streaming εμπειρίες, σταθμούς, παραγωγή ήχου και media τεχνολογία.
+**[ILUMA Radios ↗](https://iluma.gr/radios/)** — Οικοσύστημα audio, streaming και ψηφιακών ραδιοφωνικών εμπειριών.
 
-### Open-source direction
-Θέλουμε σταδιακά να δημοσιεύσουμε **components, utilities, starter kits και developer tools** που είναι πραγματικά χρήσιμα για τη δημόσια κοινότητα — πάντα χωρίς εσωτερικό ή πελατειακό κώδικα.
+**Open source, επιλεκτικά.** Εξετάζουμε τη δημόσια διάθεση components, starter kits και developer tools, με διαχωρισμό από τον ιδιωτικό και πελατειακό μας κώδικα.
 
 ---
 
-## 05 / Ας φτιάξουμε το επόμενο
+## 05 — Η επόμενη ιδέα
 
 <div align="center">
-  <a href="https://iluma.gr/contact/">
-    <img src="./assets/contact.svg" width="100%" alt="Ας δημιουργήσουμε κάτι ξεχωριστό" />
-  </a>
+  <a href="https://iluma.gr/contact/"><img src="./assets/iluma-contact-premium.svg" width="100%" alt="ILUMA — Let's build what's next" /></a>
 </div>
 
-Αν σχεδιάζετε ένα νέο brand, ένα eCommerce οικοσύστημα, μια custom εφαρμογή ή την επόμενη μεγάλη ψηφιακή σας κίνηση, είμαστε έτοιμοι να τη σχεδιάσουμε και να τη χτίσουμε μαζί σας.
-
 <p align="center">
-  <a href="https://iluma.gr/contact/"><strong>Στείλτε μας το project brief σας ↗</strong></a> &nbsp;·&nbsp;
-  <a href="mailto:hello@iluma.gr">hello@iluma.gr</a> &nbsp;·&nbsp;
-  <a href="https://iluma.gr/">iluma.gr</a>
+  <a href="https://iluma.gr/contact/"><strong>ΣΥΖΗΤΗΣΤΕ ΜΑΖΙ ΜΑΣ ΤΟ PROJECT ΣΑΣ ↗</strong></a>
+  &nbsp; · &nbsp; <a href="mailto:hello@iluma.gr">hello@iluma.gr</a>
+  &nbsp; · &nbsp; <a href="https://iluma.gr/">iluma.gr</a>
 </p>
 
-<p align="center"><sub>© 2026 ILUMA Digital Agency · Αθήνα, Ελλάδα · Your Last Digital Agency.</sub></p>
+<p align="center"><sub>© 2026 ILUMA Digital Agency &nbsp; · &nbsp; Athens, Greece &nbsp; · &nbsp; Your Last Digital Agency.</sub></p>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="328" viewBox="0 0 1600 328" role="img" aria-labelledby="title">
+<title id="title">ILUMA — Let's build what's next</title>
+<rect width="1600" height="328" fill="#090909"/>
+<g fill="none" stroke="#323232"><circle cx="1520" cy="200" r="166"/><circle cx="1520" cy="200" r="250"/></g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="77" y="71" fill="#aaa" font-size="22" letter-spacing="3">YOUR NEXT MOVE  /  OUR NEXT CHALLENGE</text>
+<text x="70" y="180" fill="#fff" font-size="83" font-weight="700" letter-spacing="-4">LET'S BUILD WHAT'S NEXT.</text>
+<text x="77" y="231" fill="#c2c2c2" font-size="25">Ας δώσουμε στην επόμενη ιδέα σας την παρουσία που αξίζει.</text>
+<path d="M77 257H1524" stroke="#414141"/>
+<text x="79" y="296" fill="#dedede" font-size="23" letter-spacing="1">ILUMA.GR</text>
+<text x="1520" y="296" text-anchor="end" fill="#dedede" font-size="23" letter-spacing="1">HELLO@ILUMA.GR</text>
+</g></svg>

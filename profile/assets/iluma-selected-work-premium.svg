@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="670" viewBox="0 0 1600 670" role="img" aria-labelledby="title desc">
+<title id="title">ILUMA — Selected Work</title><desc id="desc">Πέντε επιλεγμένα case studies: Hellenic Parliament, ENAK Shop, SEM Management, myRetina.gr και iRadios GR.</desc>
+<rect width="1600" height="670" fill="#090909"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="57" y="73" fill="#fff" font-size="54" font-weight="700" letter-spacing="-2">WORK THAT SPEAKS.</text>
+<text x="1544" y="69" fill="#999" font-size="21" letter-spacing="2" text-anchor="end">05  /  SELECTED PROJECTS</text>
+<path d="M57 102H1544" stroke="#3d3d3d"/>
+<g><rect x="56" y="170" width="482" height="216" rx="2" fill="#111111" stroke="#383838" stroke-width="1.5"/>
+<path d="M82 225H512" stroke="#2c2c2c"/>
+<text x="84" y="208" font-size="18" fill="#aaa" letter-spacing="2">01 / AI / CUSTOM SOFTWARE</text>
+<text x="84" y="301" fill="#f5f5f5" font-weight="700" font-size="35" letter-spacing="-1">HELLENIC PARLIAMENT</text>
+<text x="84" y="359" font-size="19" fill="#888">ILUMA  /  SELECTED WORK</text>
+<path d="M462 347h32m-12-12 12 12-12 12" fill="none" stroke="#fff" stroke-width="2"/></g><g><rect x="559" y="170" width="482" height="216" rx="2" fill="#111111" stroke="#383838" stroke-width="1.5"/>
+<path d="M585 225H1015" stroke="#2c2c2c"/>
+<text x="587" y="208" font-size="18" fill="#aaa" letter-spacing="2">02 / COMMERCE / B2B + B2C</text>
+<text x="587" y="301" fill="#f5f5f5" font-weight="700" font-size="42" letter-spacing="-1">ENAK SHOP</text>
+<text x="587" y="359" font-size="19" fill="#888">ILUMA  /  SELECTED WORK</text>
+<path d="M965 347h32m-12-12 12 12-12 12" fill="none" stroke="#fff" stroke-width="2"/></g><g><rect x="1062" y="170" width="482" height="216" rx="2" fill="#111111" stroke="#383838" stroke-width="1.5"/>
+<path d="M1088 225H1518" stroke="#2c2c2c"/>
+<text x="1090" y="208" font-size="18" fill="#aaa" letter-spacing="2">03 / PLATFORMS / BOOKING</text>
+<text x="1090" y="301" fill="#f5f5f5" font-weight="700" font-size="36" letter-spacing="-1">SEM MANAGEMENT</text>
+<text x="1090" y="359" font-size="19" fill="#888">ILUMA  /  SELECTED WORK</text>
+<path d="M1468 347h32m-12-12 12 12-12 12" fill="none" stroke="#fff" stroke-width="2"/></g><g><rect x="56" y="408" width="734" height="211" rx="2" fill="#111111" stroke="#383838" stroke-width="1.5"/>
+<path d="M82 463H764" stroke="#2c2c2c"/>
+<text x="84" y="446" font-size="18" fill="#aaa" letter-spacing="2">04 / HEALTH / DIGITAL EXPERIENCE</text>
+<text x="84" y="539" fill="#f5f5f5" font-weight="700" font-size="42" letter-spacing="-1">MYRETINA.GR</text>
+<text x="84" y="592" font-size="19" fill="#888">ILUMA  /  SELECTED WORK</text>
+<path d="M714 580h32m-12-12 12 12-12 12" fill="none" stroke="#fff" stroke-width="2"/></g><g><rect x="811" y="408" width="733" height="211" rx="2" fill="#111111" stroke="#383838" stroke-width="1.5"/>
+<path d="M837 463H1518" stroke="#2c2c2c"/>
+<text x="839" y="446" font-size="18" fill="#aaa" letter-spacing="2">05 / STREAMING / DIGITAL MEDIA</text>
+<text x="839" y="539" fill="#f5f5f5" font-weight="700" font-size="42" letter-spacing="-1">IRADIOS GR</text>
+<text x="839" y="592" font-size="19" fill="#888">ILUMA  /  SELECTED WORK</text>
+<path d="M1468 580h32m-12-12 12 12-12 12" fill="none" stroke="#fff" stroke-width="2"/></g>
+</g></svg>
